@@ -1,4 +1,4 @@
-# MiniMercado Bom Preço — Fase 1
+# MiniMercado Bohm Preço — Fase 1
 
 Projeto acadêmico da disciplina **Fundamentos de Sistemas Web**. Plataforma online fictícia de minimercado feita em **HTML puro** (sem CSS/JS).
 
